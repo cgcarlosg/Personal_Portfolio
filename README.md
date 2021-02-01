@@ -21,11 +21,11 @@ Clone the repository
 Usage
 Open index.html in your browser.
 
-👤 Marcelo Fernandes
 
-GitHub: @marcelomaidden
-Twitter: @marcelomaidden
-LinkedIn: Marcelo Fernandes
+
+GitHub: 
+Twitter: 
+LinkedIn: 
 Acknowledments
 Microverse team for providing amazing design templates for portfolio.
 Unsplash
