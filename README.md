@@ -23,20 +23,18 @@ Open index.html in your browser.
 
 
 
-GitHub: 
-Twitter: 
-LinkedIn: 
+- GitHub: 
+- Twitter: 
+- LinkedIn: 
+
 Acknowledments
+
 Microverse team for providing amazing design templates for portfolio.
-Unsplash
-Graphicburger
-Pexels
 Font Awesome
 W3schools
 Twitter Boostrap
 Google Fonts
-Cottonbro photos available on Pexels
-Luis Quintero photos available on Pexels
+
 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
