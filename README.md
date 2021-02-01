@@ -1,7 +1,8 @@
 ## Portfolio
 Portfolio made following the Microverse's template where I could showcase all my projects and knowledge achieved during the HTML, CSS, Ruby, and Ruby on Rails Curriculum
 
-screenshot
+## Live Demo
+[live](https://cgcarlosg.github.io/Personal_Portfolio/)
 
 ## Built With
 HTML
