@@ -1,46 +1,45 @@
-Portfolio
+## Portfolio
 Portfolio made following the Microverse's template where I could showcase all my projects and knowledge achieved during the HTML, CSS, Ruby, and Ruby on Rails Curriculum
 
-screenshot
+## Live Demo
+[live](https://cgcarlosg.github.io/Personal_Portfolio/)
 
-Built With
+## Built With
 HTML
 CSS
 Live Demo
 Portfolio
 
-Getting Started
+## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-Clone the repository
+## Clone the repository
 
 - open your editor.
 - type git clone https://github.com/cgcarlosg/cgcarlosg.github.io.git.
 - Save it in your desktop folder.
 
-Usage
+## Usage
 Open index.html in your browser.
 
-👤 Marcelo Fernandes
 
-GitHub: @marcelomaidden
-Twitter: @marcelomaidden
-LinkedIn: Marcelo Fernandes
-Acknowledments
+
+- GitHub:  [@cgcarlosg](https://github.com/cgcarlosg)
+- Twitter: [@cgcarlosg1](https://twitter.com/cgcarlosg1)
+- LinkedIn: [@carlosalbeniogutierrez](www.linkedin.com/in/carlosalbeniogutierrez)
+
+## Acknowledments
+
 Microverse team for providing amazing design templates for portfolio.
-Unsplash
-Graphicburger
-Pexels
 Font Awesome
 W3schools
 Twitter Boostrap
 Google Fonts
-Cottonbro photos available on Pexels
-Luis Quintero photos available on Pexels
+
 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the issues page.
 
-Show your support
+## Show your support
 Give a ⭐️ if you like this project!
