@@ -314,6 +314,24 @@ div.languages,
     url('../images/online-shop-mini-2.png') center / 100% no-repeat;
 }
 
+.todo-main-project {
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0)),
+    url('../images/todo-shop-full.png') 90% / 150% no-repeat;
+}
+
+.todo-project {
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0)),
+    url('../images/todo-shop-mini.png') center / 50% no-repeat;
+}
+
+.todo-project-mini {
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0)),
+    url('../images/todo-shop-mini-2.png') center / 100% no-repeat;
+}
+
 .about-me {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
